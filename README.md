@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-Je suis Florent, ingénieur en modélisation, mécanique des fluides et environnement🌻. J'utilise le code pour résoudre des problèmes pratiques dans mes domaines d'expertise : modélisation opérationnelle, analyse de données, automatisation, géotraitement... 
+Je suis Florent, ingénieur en modélisation, mécanique des fluides et environnement🌻. J'utilise le code pour résoudre des problèmes pratiques dans mes domaines d'expertise : modélisation opérationnelle, analyse de données, résolution et optimisation, géotraitement... 
 
 ---
 
