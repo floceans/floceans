@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floceans&layout=compact&langs_count=10&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=tonpseudo&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=floceans&theme=radical)
